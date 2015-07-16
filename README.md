@@ -14,5 +14,6 @@ client/stylesheets/components/someComponent.import.next.css
 ```
 
 ## TODO
-* Fix sourcemaps
+* Add some comments to the code
 * Add hooks for nextcss
+* Fix sourcemaps
