@@ -39,4 +39,5 @@ function extractStylesheetObject (postcssObj) {
 }
 
 Plugin.registerSourceHandler('import.next.css', {archMatching: 'web'}, state.set)
+Plugin.registerSourceHandler('_next.css', {archMatching: 'web'}, state.set)
 Plugin.registerSourceHandler('next.css', {archMatching: 'web'}, compileNextCss)
