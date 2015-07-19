@@ -1,6 +1,6 @@
 Package.describe({
   name: 'kriegslustig:cssnext',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'Use cssnext inside meteor without the @import madness.',
   git: 'https://github.com/Kriegslustig/meteor-cssnext',
   documentation: 'README.md'
